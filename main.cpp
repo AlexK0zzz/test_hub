@@ -12,6 +12,7 @@ int main(int argc, char *argv[])
     cout<<c;
 
     cout<<endl<<"Hi! I'm AlexK0zzz ;)"<<endl;
+    cout<<"And I don't know how it works"<<endl;
 
     return a.exec();
 }
